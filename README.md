@@ -1,2 +1,2 @@
-# spring-batch-study
+# spring-batch
 Spring Batch学习笔记
