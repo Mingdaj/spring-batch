@@ -20,7 +20,7 @@ import org.springframework.context.annotation.Configuration;
  * File: QuickStartH2
  * Description: 入门案例，MySQL版
  */
-@Configuration
+//@Configuration
 public class QuickStartMySql {
 
     // job调度器
